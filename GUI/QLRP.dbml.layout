@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.75, 11.75" name="QLRP">
+  <DataContextMoniker Name="/QLRPDataContext" />
+  <nestedChildShapes>
+    <classShape Id="68da94f3-1539-4edb-b29f-9be7039c99a6" absoluteBounds="3.5, 3.625, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/QLRPDataContext/DinhDangPhim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="382a24eb-6675-4948-ae40-83ae5ebea47e" absoluteBounds="3.515, 4.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd9b0795-4474-4aa4-80f9-9d667ba74afd" absoluteBounds="6.25, 2.125, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QLRPDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57d45e1b-32b9-4b3f-8fd7-9596324e4a7c" absoluteBounds="6.265, 2.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e90542ca-0b73-4887-926e-724af0b17176" absoluteBounds="6.25, 5.125, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QLRPDataContext/LichChieu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d9117cfb-161e-4613-8532-44cb3a25809d" absoluteBounds="6.265, 5.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a8a8cf17-7568-4516-bf67-347cfa11003c" absoluteBounds="9, 5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLRPDataContext/Ve" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b842958-9e4f-4146-b7b0-9fc5a9766c9d" absoluteBounds="9.015, 5.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7cf1d22a-b489-4401-9ad1-e037b52adee0" absoluteBounds="0.75, 10.125, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QLRPDataContext/TheLoai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e47a5208-8000-4017-b30a-887217075d84" absoluteBounds="0.765, 10.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="69313204-b157-41c5-a503-ca9f5ccb9842" absoluteBounds="9.5, 8.875, 2, 1.5785953776041648">
+      <DataClassMoniker Name="/QLRPDataContext/TaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="750fcc86-2a9c-4e29-a84e-fed9274a124e" absoluteBounds="9.515, 9.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b84d2288-28db-467c-a74f-5bc6f22f5d71" absoluteBounds="3.5, 6.375, 2, 2.1554996744791675">
+      <DataClassMoniker Name="/QLRPDataContext/PhongChieu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b787291-a0cd-4b5a-9b6c-3b8d413a09ea" absoluteBounds="3.515, 6.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cbe9ec10-e3c6-4bf2-b421-0859aab9df6e" absoluteBounds="0.75, 1, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/QLRPDataContext/Phim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f1c2a63a-4464-4246-8dad-bf153ba0794c" absoluteBounds="0.765, 1.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72bd1c91-d612-4518-a721-31fb44a3eb08" absoluteBounds="3.5, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QLRPDataContext/PhanLoaiPhim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07d3337c-7464-4292-8b7f-401772f740c7" absoluteBounds="3.515, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fcd47655-2aad-441a-805c-0ec29f6006f1" absoluteBounds="6.75, 8.625, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QLRPDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="763235bb-0562-42b2-9376-3961cdf0212e" absoluteBounds="6.765, 9.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f848d8e-104d-4668-ab04-defa1b07f459" absoluteBounds="0.75, 4.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QLRPDataContext/LoaiManHinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6aa59ef8-7327-44ab-9acb-84ab5837ec97" absoluteBounds="0.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 5.0112939453125); (5.875 : 5.3862939453125); (5.875 : 4.75); (6.25 : 5.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLRPDataContext/DinhDangPhim/DinhDangPhim_LichChieu" />
+      <nodes>
+        <classShapeMoniker Id="68da94f3-1539-4edb-b29f-9be7039c99a6" />
+        <classShapeMoniker Id="e90542ca-0b73-4887-926e-724af0b17176" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.10659912109375); (10 : 3.10659912109375); (10 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/KhachHang/KhachHang_Ve" />
+      <nodes>
+        <classShapeMoniker Id="cd9b0795-4474-4aa4-80f9-9d667ba74afd" />
+        <classShapeMoniker Id="a8a8cf17-7568-4516-bf67-347cfa11003c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 6.10659912109375); (9 : 6.10659912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/LichChieu/LichChieu_Ve" />
+      <nodes>
+        <classShapeMoniker Id="e90542ca-0b73-4887-926e-724af0b17176" />
+        <classShapeMoniker Id="a8a8cf17-7568-4516-bf67-347cfa11003c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.73159912109375); (6.25 : 6.73159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/PhongChieu/PhongChieu_LichChieu" />
+      <nodes>
+        <classShapeMoniker Id="b84d2288-28db-467c-a74f-5bc6f22f5d71" />
+        <classShapeMoniker Id="e90542ca-0b73-4887-926e-724af0b17176" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.73240397135417); (3.125 : 4.10740397135417); (3.125 : 3.25); (3.25357443490112 : 3.37857443490112 : JumpStart); (3.37142556509888 : 3.49642556509888 : JumpEnd); (3.5 : 3.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLRPDataContext/Phim/Phim_DinhDangPhim" />
+      <nodes>
+        <classShapeMoniker Id="cbe9ec10-e3c6-4bf2-b421-0859aab9df6e" />
+        <classShapeMoniker Id="68da94f3-1539-4edb-b29f-9be7039c99a6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.47199625651042); (3.22916666666667 : 1.47199625651042 : JumpStart); (3.39583333333333 : 1.47199625651042 : JumpEnd); (3.5 : 1.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/Phim/Phim_PhanLoaiPhim" />
+      <nodes>
+        <classShapeMoniker Id="cbe9ec10-e3c6-4bf2-b421-0859aab9df6e" />
+        <classShapeMoniker Id="72bd1c91-d612-4518-a721-31fb44a3eb08" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.1868490375601); (3.3125 : 9.6243490375601); (3.3125 : 1.07974612825521); (3.5 : 1.07974612825521)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/TheLoai/TheLoai_PhanLoaiPhim" />
+      <nodes>
+        <classShapeMoniker Id="7cf1d22a-b489-4401-9ad1-e037b52adee0" />
+        <classShapeMoniker Id="72bd1c91-d612-4518-a721-31fb44a3eb08" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 9.66429768880208); (9.5 : 9.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/NhanVien/NhanVien_TaiKhoan" />
+      <nodes>
+        <classShapeMoniker Id="fcd47655-2aad-441a-805c-0ec29f6006f1" />
+        <classShapeMoniker Id="69313204-b157-41c5-a503-ca9f5ccb9842" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.88064697265625); (3.22916666666667 : 4.88064697265625 : JumpStart); (3.39583333333333 : 4.88064697265625 : JumpEnd); (3.5 : 4.88064697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/LoaiManHinh/LoaiManHinh_DinhDangPhim" />
+      <nodes>
+        <classShapeMoniker Id="0f848d8e-104d-4668-ab04-defa1b07f459" />
+        <classShapeMoniker Id="68da94f3-1539-4edb-b29f-9be7039c99a6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 5.94399251302083); (1.75 : 7.45274983723958); (3.22916666666667 : 7.45274983723958 : JumpStart); (3.39583333333333 : 7.45274983723958 : JumpEnd); (3.5 : 7.45274983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLRPDataContext/LoaiManHinh/LoaiManHinh_PhongChieu" />
+      <nodes>
+        <classShapeMoniker Id="0f848d8e-104d-4668-ab04-defa1b07f459" />
+        <classShapeMoniker Id="b84d2288-28db-467c-a74f-5bc6f22f5d71" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
